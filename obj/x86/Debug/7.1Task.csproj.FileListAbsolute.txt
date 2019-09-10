@@ -1,0 +1,7 @@
+C:\Users\Manan Rajpal\Documents\Sem-2\Object Oriented Programming\Tasks\Task 7\7.1\7.1Task\7.1Task\obj\x86\Debug\7.1Task.csprojResolveAssemblyReference.cache
+C:\Users\Manan Rajpal\Documents\Sem-2\Object Oriented Programming\Tasks\Task 7\7.1\7.1Task\7.1Task\bin\Debug\7.1Task.exe
+C:\Users\Manan Rajpal\Documents\Sem-2\Object Oriented Programming\Tasks\Task 7\7.1\7.1Task\7.1Task\bin\Debug\7.1Task.pdb
+C:\Users\Manan Rajpal\Documents\Sem-2\Object Oriented Programming\Tasks\Task 7\7.1\7.1Task\7.1Task\obj\x86\Debug\7.1Task.exe
+C:\Users\Manan Rajpal\Documents\Sem-2\Object Oriented Programming\Tasks\Task 7\7.1\7.1Task\7.1Task\obj\x86\Debug\7.1Task.pdb
+C:\Users\Manan Rajpal\Documents\Sem-2\Object Oriented Programming\Tasks\Task 7\7.1\7.1Task\7.1Task\bin\Debug\nunit.framework.dll
+C:\Users\Manan Rajpal\Documents\Sem-2\Object Oriented Programming\Tasks\Task 7\7.1\7.1Task\7.1Task\bin\Debug\nunit.framework.xml
